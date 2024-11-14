@@ -1,13 +1,13 @@
-<h1 align="center" style="font-size: 36px;">Hi 👋, I'm Ankit Shaw</h1>
-<h3 align="center" style="font-size: 24px;">A passionate frontend developer from India</h3>
+<h1 align="center" style="font-size: 48px;">Hi 👋, I'm Ankit Shaw</h1>
+<h3 align="center" style="font-size: 36px;">A passionate frontend developer from India</h3>
 
-<p align="center" style="font-size: 18px;">🌱 I’m currently learning <strong>JavaScript, React.js</strong></p>
-<p align="center" style="font-size: 18px;">👯 I’m looking to collaborate on <strong>front end projects</strong></p>
-<p align="center" style="font-size: 18px;">📫 How to reach me <strong>ankitshaw6933@gmail.com</strong></p>
+<p align="center" style="font-size: 24px;">🌱 I’m currently learning <strong>JavaScript, React.js</strong></p>
+<p align="center" style="font-size: 24px;">👯 I’m looking to collaborate on <strong>front end projects</strong></p>
+<p align="center" style="font-size: 24px;">📫 How to reach me <strong>ankitshaw6933@gmail.com</strong></p>
 
-<h3 align="center" style="font-size: 24px;">Languages and Tools:</h3>
+<h3 align="center" style="font-size: 36px;">Languages and Tools:</h3>
 <p align="center"> 
-  <!-- Icons unchanged for visual clarity -->
+  <!-- Icons unchanged for clarity -->
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
   </a> 
