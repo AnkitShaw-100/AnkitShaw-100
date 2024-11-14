@@ -34,8 +34,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitshaw-100&" alt="ankitshaw-100" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ankitshaw-100" alt="GitHub Streak Stats for ankitshaw-100" />
 </p>
+
 
 
 <picture>
