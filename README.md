@@ -19,9 +19,10 @@
 
 <h3 style="font-size: 36px; text-align: left;">📈 GitHub Stats:</h3>
 
-<p style="text-align: left;">
+<!-- Commented out GitHub Stats -->
+<!-- <p style="text-align: left;">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ankitshaw-100" alt="GitHub Streak Stats for ankitshaw-100" />
-</p>
+</p> -->
 
 <h3 style="font-size: 36px; text-align: left;">📫 How to Connect with Me:</h3>
 <p style="font-size: 24px; text-align: left;">
