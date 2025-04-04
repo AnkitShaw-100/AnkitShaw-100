@@ -37,9 +37,10 @@
 
 <!-- GitHub Contributions Graph -->
 <p style="text-align: left;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankitshaw-100&theme=react-dark" alt="GitHub Contributions Graph" width="700" height="350"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankitshaw-100&theme=react-dark" alt="GitHub Contributions Graph" />
 </p>
 
 <h3 style="font-size: 32px; text-align: left; color: #333;">📫 Let's Connect:</h3>
 <p style="font-size: 24px; text-align: left; color: #777;">
   ✉️ Email: <strong>ankitshaw6933@gmail.com</strong><br />
+  🔗 LinkedIn: <a href="https://www.linkedin.com/in/ankit-shaw-884b0728a/" target="_blank"
