@@ -1,14 +1,15 @@
-<h1 style="font-size: 48px; text-align: left;">Hi 👋, I'm Ankit Shaw</h1>
-<h3 style="font-size: 32px; text-align: left;">A passionate Frontend Developer from Kolkata</h3>
-<h3 style="font-size: 32px; text-align: left;">🎓 Studying at <strong>Institute of Engineering and Management (IEM)</strong></h3>
+<h1 style="font-size: 48px; text-align: left; color: #333;">Hi 👋, I'm Ankit Shaw</h1>
 
-<p style="font-size: 24px; text-align: left;">🌱 Currently learning <strong>React and Next.JS</strong></p>
-<p style="font-size: 24px; text-align: left;">🤝 Open to collaborating on <strong>frontend projects</strong></p>
+<h3 style="font-size: 32px; text-align: left; color: #555;">A passionate Frontend Developer from Kolkata</h3>
+<h3 style="font-size: 32px; text-align: left; color: #555;">🎓 Studying at <strong>Institute of Engineering and Management (IEM)</strong></h3>
 
-<h3 style="font-size: 32px; text-align: left;">🛠 Languages & Tools:</h3>
+<p style="font-size: 24px; text-align: left; color: #777;">🌱 Currently learning <strong>React and Next.JS</strong></p>
+<p style="font-size: 24px; text-align: left; color: #777;">🤝 Open to collaborating on <strong>frontend projects</strong></p>
+
+<h3 style="font-size: 32px; text-align: left; color: #333;">🛠 Languages & Tools:</h3>
 
 <!-- Programming Languages -->
-<h4 style="font-size: 28px; text-align: left;">💻 Programming Languages:</h4>
+<h4 style="font-size: 28px; text-align: left; color: #444;">💻 Programming Languages:</h4>
 <p style="text-align: left; font-size: 50px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="50px" height="50px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C" width="50px" height="50px"/>
@@ -20,38 +21,25 @@
 </p>
 
 <!-- Frameworks & Libraries -->
-<h4 style="font-size: 28px; text-align: left;">🚀 Frameworks & Libraries:</h4>
+<h4 style="font-size: 28px; text-align: left; color: #444;">🚀 Frameworks & Libraries:</h4>
 <p style="text-align: left; font-size: 50px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="50px" height="50px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="50px" height="50px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" alt="Tailwind CSS" width="50px" height="50px"/>
 </p>
 
-<h3 style="font-size: 32px; text-align: left;">📊 GitHub Stats:</h3>
+<h3 style="font-size: 32px; text-align: left; color: #333;">📊 GitHub Stats:</h3>
 
 <!-- GitHub Streak Stats -->
 <p style="text-align: left;">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ankitshaw-100&theme=react" alt="GitHub Streak Stats" />
 </p>
 
-<!-- GitHub Overall Stats -->
-<p style="text-align: left;">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankitshaw-100&show_icons=true&theme=react" alt="GitHub Stats" />
-</p>
-
-<!-- Most Used Languages -->
-<p style="text-align: left;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitshaw-100&layout=compact&theme=react" alt="Most Used Languages" />
-</p>
-
 <!-- GitHub Contributions Graph -->
 <p style="text-align: left;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankitshaw-100&theme=react-dark" alt="GitHub Contributions Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankitshaw-100&theme=react-dark" alt="GitHub Contributions Graph" width="700" height="350"/>
 </p>
 
-
-<h3 style="font-size: 32px; text-align: left;">📫 Let's Connect:</h3>
-<p style="font-size: 24px; text-align: left;">
+<h3 style="font-size: 32px; text-align: left; color: #333;">📫 Let's Connect:</h3>
+<p style="font-size: 24px; text-align: left; color: #777;">
   ✉️ Email: <strong>ankitshaw6933@gmail.com</strong><br />
-  🔗 LinkedIn: <a href="https://www.linkedin.com/in/ankit-shaw-884b0728a/" target="_blank" rel="noopener noreferrer"><strong>Ankit Shaw</strong></a>
-</p>
