@@ -45,5 +45,5 @@ Currently exploring: **Node.js**, **Express**, **Supabase**, **Firebase**, and *
 ## 🏆 Achievement
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AnkitShaw-100/AnkitShaw-100/main/Selected Project Admin badge.png.jpg" width="300" alt="GSSoC 2025 Project Admin Badge" />
+  <img src="https://raw.githubusercontent.com/AnkitShaw-100/AnkitShaw-100/main/Selected Project Admin badge.png.jpg" width="200" alt="GSSoC 2025 Project Admin Badge" />
 </div>
