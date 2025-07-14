@@ -40,4 +40,10 @@ Currently exploring: **Node.js**, **Express**, **Supabase**, **Firebase**, and *
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitShaw-100&hide=html&langs_count=8&layout=compact&theme=react&border_radius=10" width="400" height="200" />
 </div>
 
+<br/>
 
+## 🏆 Achievement
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AnkitShaw-100/AnkitShaw-100/main/Selected Project Admin badge.png.jpg" width="300" alt="GSSoC 2025 Project Admin Badge" />
+</div>
