@@ -12,7 +12,6 @@ Currently exploring: **Node.js**, **Express**, **Supabase**, **Firebase**, and *
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="NextJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
   <img align="center" alt="Firebase" height="30" width="40" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg">
   <img align="center" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
@@ -41,9 +40,3 @@ Currently exploring: **Node.js**, **Express**, **Supabase**, **Firebase**, and *
 </div>
 
 <br/>
-
-## 🏆 Achievement
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/AnkitShaw-100/AnkitShaw-100/main/Selected Project Admin badge.png.jpg" width="200" alt="GSSoC 2025 Project Admin Badge" />
-</div>
