@@ -1,29 +1,18 @@
-# Hi there, I'm Ankit Shaw! 👋
+# Hi, I'm Ankit Shaw 👋  
+### 🚀 Full Stack Developer | India  
 
-### A passionate Full Stack Developer from India  
+I enjoy building **dynamic and scalable web applications** with a balance of clean UI and strong backend logic. Always curious, always learning.  
 
-I'm currently diving deep into the world of **Full Stack Development**.  
-With a focus on building dynamic, scalable, and user-friendly applications, I enjoy working with both frontend and backend technologies.  
-From designing sleek interfaces to building robust server-side logic, I'm constantly learning and exploring new tools to sharpen my skills.  
-
----
-
-## 🚀 Skills and Technologies:
-
+## 🛠️ Tech Stack  
 <p align="left">  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40"/>  
+  <!-- Core -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,nodejs,express,mongodb" />  
+  <br/>
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=git,github,postman" />  
 </p>  
 
----
-
-## 📊 GitHub Stats:
+## 📈 GitHub Streak  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnkitShaw-100&show_icons=true&theme=radical" alt="AnkitShaw-100 GitHub stats" />
-</p>
+  <img src="https://streak-stats.demolab.com?user=AnkitShaw-100&theme=radical" alt="GitHub Streak" />
+</p>  
