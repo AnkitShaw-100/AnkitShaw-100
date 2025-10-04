@@ -1,7 +1,8 @@
-# Hi, I'm Ankit Shaw 👋  
+# Hi, I'm Ankit Shaw
 ### 🚀 Full Stack Developer | India  
 
-I enjoy building **dynamic and scalable web applications** with a balance of clean UI and strong backend logic. Always curious, always learning.  
+I build **scalable web apps** with clean UIs and strong backends.  
+Always learning. Always improving.  
 
 ## 🛠️ Tech Stack  
 <p align="left">  
@@ -16,3 +17,4 @@ I enjoy building **dynamic and scalable web applications** with a balance of cle
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=AnkitShaw-100&theme=radical" alt="GitHub Streak" />
 </p>  
+
