@@ -1,5 +1,5 @@
 # Hi, I'm Ankit Shaw
-### 🚀 Full Stack Developer | India  
+### Full Stack Developer | India  
 
 I build **scalable web apps** with clean UIs and strong backends.  
 Always learning. Always improving.  
@@ -17,4 +17,5 @@ Always learning. Always improving.
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=AnkitShaw-100&theme=radical" alt="GitHub Streak" />
 </p>  
+
 
