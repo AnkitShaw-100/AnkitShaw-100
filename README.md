@@ -9,9 +9,9 @@
 # Hi, I'm Ankit Shaw
 ### Full Stack Developer | India
 
-- #### I build scalable and performant web applications with clean user interfaces and reliable backends.
-- #### I focus on writing maintainable code and improving through real-world projects. 
-- #### I believe consistency, clarity, and balance lead to better engineering outcomes.
+- **I build scalable and performant web applications with clean user interfaces and reliable backends.**
+- **I focus on writing maintainable code and improving through real-world projects.**
+- **I believe consistency, clarity, and balance lead to better engineering outcomes.**
 
 ---
 
