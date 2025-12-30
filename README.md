@@ -23,21 +23,6 @@
 
 ---
 
-## GitHub Statistics
-
-<p>
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=AnkitShaw-100&show_icons=true&theme=radical"
-    height="160"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitShaw-100&layout=compact&theme=radical"
-    height="160"
-  />
-</p>
-
----
-
 ## GitHub Streak
 
 <p>
@@ -58,5 +43,6 @@
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
+
 
 
