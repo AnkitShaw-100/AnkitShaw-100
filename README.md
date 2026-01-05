@@ -13,18 +13,12 @@ I build scalable and performant web applications with clean user interfaces and 
 I focus on writing maintainable code and improving through real-world projects.  
 I believe consistency, clarity, and balance lead to better engineering outcomes.
 
----
-
 ## Tech Stack
-
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,react,next,tailwind,bootstrap,nodejs,express,mongodb,mysql,docker,git,figma,postman" />
 </p>
 
----
-
 ## GitHub Streak
-
 <p>
   <img
     src="https://streak-stats.demolab.com?user=AnkitShaw-100&theme=radical"
@@ -32,16 +26,7 @@ I believe consistency, clarity, and balance lead to better engineering outcomes.
   />
 </p>
 
----
-
-## Contribution Graph
-
-![Snake animation Contribution Graph](https://raw.githubusercontent.com/AnkitShaw-100/AnkitShaw-100/output/github-contribution-grid-snake-dark.svg)
-
----
-
 ## Contact
-
 <p>
   <a href="https://x.com/AnkitShaw750" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" />
