@@ -6,28 +6,19 @@
   />
 </p>
 
-# Hi, I'm Ankit Shaw
-### Full Stack Developer | India
+# Hi, I’m Ankit Shaw  
+**Full Stack Developer · India**
 
-I build scalable and performant web applications with clean user interfaces and reliable backends.  
-I focus on writing maintainable code and improving through real-world projects.  
-I believe consistency, clarity, and balance lead to better engineering outcomes.
+I build modern web apps and enjoy designing systems more than chasing bugs.
 
 ## Tech Stack
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,next,tailwind,bootstrap,nodejs,express,mongodb,mysql,docker,git,figma,postman" />
-</p>
+<img src="https://skillicons.dev/icons?i=js,ts,react,next,tailwind,bootstrap,nodejs,express,mongodb,mysql,supabase,docker,git,figma,postman" />
 
-## GitHub Streak
+## Connect
 <p>
-  <img
-    src="https://streak-stats.demolab.com?user=AnkitShaw-100&theme=radical"
-    alt="GitHub Streak"
-  />
-</p>
-
-## Contact
-<p>
+  <a href="mailto:ankitshaw6933@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
   <a href="https://x.com/AnkitShaw750" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
