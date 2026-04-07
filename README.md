@@ -16,7 +16,6 @@ I enjoy designing systems, optimizing performance, and writing clean, maintainab
 ### Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind" />
-  <img src="https://skillicons.dev/icons?i=vercel" />
 </p>
 
 ### Backend & Database
