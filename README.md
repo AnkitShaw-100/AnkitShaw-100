@@ -7,14 +7,46 @@
 </p>
 
 # Hi, I’m Ankit Shaw  
-**Full Stack Developer · India**
 
-I build modern web apps and enjoy designing systems more than chasing bugs.
+Full Stack Developer focused on building scalable, real-time web applications.  
+I enjoy designing systems, optimizing performance, and writing clean, maintainable code.
 
-## Tech Stack
-<img src="https://skillicons.dev/icons?i=js,ts,react,next,tailwind,bootstrap,nodejs,express,mongodb,mysql,supabase,docker,git,figma,postman" />
+
+## What I Build
+
+- Real-time applications (chat, notifications, live systems)
+- Scalable backend architectures using modern APIs & BaaS
+- Clean, responsive frontend systems with strong UX focus
+- End-to-end full stack applications with production mindset
+
+
+## Engineering Approach
+
+- Think in systems, not just features
+- Write code that scales and is easy to maintain
+- Focus on performance, clarity, and developer experience
+- Prefer practical solutions over over-engineering
+
+
+## Tech I Use
+
+**Frontend:**  
+Next.js, React, TypeScript, Tailwind CSS, shadcn/ui  
+
+**Backend & Database:**  
+Node.js, Express, Supabase, PostgreSQL, MongoDB  
+
+**Tools & Workflow:**  
+Git, Docker, Postman, Figma  
+
+## Currently Exploring
+
+- Advanced system design patterns  
+- Real-time architectures  
+- Performance optimization in modern web apps  
 
 ## Connect
+
 <p>
   <a href="mailto:ankitshaw6933@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
