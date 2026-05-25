@@ -11,7 +11,7 @@
 Full Stack Developer passionate about building high-performance web applications with clean architecture and seamless user experiences.  
 I enjoy solving real-world problems through code, optimizing system performance, and crafting maintainable, production-ready solutions.
 
----
+
 
 ## Projects
 
@@ -21,7 +21,7 @@ I enjoy solving real-world problems through code, optimizing system performance,
 | **Aqua Delight** | Developed an AI-powered seafood marketplace with freshness scoring, smart recipe recommendations, and full buyer-seller workflow. | React, Node.js, MongoDB, Cloudinary, Gemini AI, Tailwind | [View Project](https://aqua-delight.vercel.app) |
 | **DineFlow** | Developed a modern restaurant management platform with menu management, order handling, table operations, and an intuitive admin dashboard for seamless restaurant workflows. | React, Node.js, Express, MongoDB, Clerk, Tailwind CSS | [View Project](https://try-dine-flow.vercel.app/) |
 
----
+
 
 ## Connect
 
