@@ -17,7 +17,7 @@ I enjoy solving real-world problems through code, optimizing system performance,
 
 | Project | Description | Tech | Link |
 |--------|-------------|------|------|
-| **Royal Mint** | Developed a production-grade banking system with immutable ledger, idempotent APIs, and double-entry accounting to ensure transaction safety and consistency. | React, Node.js, Express, MongoDB, Clerk, Docker | [View Project](https://royalmint-dev.vercel.app/) |
+| **Royal Mint** | Developed a production-grade banking system with immutable ledger, idempotent APIs, and double-entry accounting to ensure transaction safety and consistency. | React, Node.js, Express, MongoDB, Clerk, Docker | [View Project](https://try-royal-mint.vercel.app/) |
 | **Aqua Delight** | Developed an AI-powered seafood marketplace with freshness scoring, smart recipe recommendations, and full buyer-seller workflow. | React, Node.js, MongoDB, Cloudinary, Gemini AI, Tailwind | [View Project](https://aqua-delight.vercel.app) |
 | **DineFlow** | Developed a modern restaurant management platform with menu management, order handling, table operations, and an intuitive admin dashboard for seamless restaurant workflows. | React, Node.js, Express, MongoDB, Clerk, Tailwind CSS | [View Project](https://try-dine-flow.vercel.app/) |
 
