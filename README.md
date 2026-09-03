@@ -1,23 +1,7 @@
-<p align="left">
-  <img
-    src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7"
-    width="100%"
-    alt="Banner"
-  />
-</p>
-
 # Hi, I’m Ankit Shaw
 
 Full stack developer, mostly backend. I build web apps from the database and API through to the screen.  
 I care about getting the small things right, so nothing breaks once real people start using it.
-
-
-
-## Skills
-
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,nodejs,express,postgres,mongodb,prisma,supabase,docker,git,github,vercel&perline=7" />
-</p>
 
 
 
@@ -28,7 +12,6 @@ I care about getting the small things right, so nothing breaks once real people 
 | **Orbit** | Developed a real-time crypto paper trading platform with live market data, short selling, and server-side order execution that keeps every balance accurate. | React, Node.js, Express, PostgreSQL, Prisma, Supabase | [View Project](https://orbit-ankit.vercel.app/) |
 | **Royal Mint** | Developed a production-grade banking system with immutable ledger, idempotent APIs, and double-entry accounting to ensure transaction safety and consistency. | React, Node.js, Express, MongoDB, Clerk, Docker | [View Project](https://try-royal-mint.vercel.app/) |
 | **Aqua Delight** | Developed an AI-powered seafood marketplace with freshness scoring, smart recipe recommendations, and full buyer-seller workflow. | React, Node.js, MongoDB, Cloudinary, Gemini AI, Tailwind | [View Project](https://aqua-delight.vercel.app) |
-
 
 
 
