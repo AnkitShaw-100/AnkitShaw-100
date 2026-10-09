@@ -5,11 +5,11 @@
 I build web applications with a strong focus on backend engineering, database design, and reliable APIs. I enjoy solving practical engineering problems and building systems that are consistent, maintainable, and designed for real-world usage.
 
 <p align="left">
-  <a href="https://github.com/AnkitShaw-100">
-    <img src="https://img.shields.io/badge/GitHub-AnkitShaw--100-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+  <a href="https://ankitcodes-io.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:ankitshaw6933@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/ankitshaw100/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -22,13 +22,6 @@ I build web applications with a strong focus on backend engineering, database de
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,js,nodejs,express,postgres,mongodb,prisma,supabase,docker,tailwind,git,github" alt="Tech Stack" />
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Backend-Development-2563EB?style=flat-square" alt="Backend Development" />
-  <img src="https://img.shields.io/badge/REST-APIs-7C3AED?style=flat-square" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/Database-Design-059669?style=flat-square" alt="Database Design" />
-  <img src="https://img.shields.io/badge/AI-Integration-D97706?style=flat-square" alt="AI Integration" />
 </p>
 
 ---
@@ -94,29 +87,3 @@ I build web applications with a strong focus on backend engineering, database de
 </p>
 
 ---
-
-## Connect With Me
-
-<p align="left">
-  <a href="mailto:ankitshaw6933@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="42" alt="Email" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/ankitshaw100/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="42" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://x.com/AnkitShaw750">
-    <img src="https://skillicons.dev/icons?i=twitter" width="42" alt="X / Twitter" />
-  </a>
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Focus-Backend_Engineering-2563EB?style=flat-square" alt="Backend Engineering" />
-  <img src="https://img.shields.io/badge/Principle-Code_Quality-059669?style=flat-square" alt="Code Quality" />
-  <img src="https://img.shields.io/badge/Priority-Reliability-9333EA?style=flat-square" alt="Reliability" />
-</p>
-
-<p align="center">
-  <sub>Building thoughtfully. Learning continuously. Shipping reliably.</sub>
-</p>
