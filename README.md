@@ -1,32 +1,122 @@
-# Hi, I’m Ankit Shaw
+# Hi, I'm Ankit Shaw
 
-Full stack developer, mostly backend. I build web apps from the database and API through to the screen.  
-I care about getting the small things right, so nothing breaks once real people start using it.
+### Full-Stack Developer | Backend-Focused Engineer
 
+I build web applications with a strong focus on backend engineering, database design, and reliable APIs. I enjoy solving practical engineering problems and building systems that are consistent, maintainable, and designed for real-world usage.
 
+<p align="left">
+  <a href="https://github.com/AnkitShaw-100">
+    <img src="https://img.shields.io/badge/GitHub-AnkitShaw--100-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+  </a>
+  <a href="mailto:ankitshaw6933@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/ankitshaw100/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
-## Projects
+---
 
-| Project | Description | Tech | Link |
-|--------|-------------|------|------|
-| **Orbit** | Developed a real-time crypto paper trading platform with live market data, short selling, and server-side order execution that keeps every balance accurate. | React, Node.js, Express, PostgreSQL, Prisma, Supabase | [View Project](https://orbit-ankit.vercel.app/) |
-| **Royal Mint** | Developed a production-grade banking system with immutable ledger, idempotent APIs, and double-entry accounting to ensure transaction safety and consistency. | React, Node.js, Express, MongoDB, Clerk, Docker | [View Project](https://try-royal-mint.vercel.app/) |
-| **Aqua Delight** | Developed an AI-powered seafood marketplace with freshness scoring, smart recipe recommendations, and full buyer-seller workflow. | React, Node.js, MongoDB, Cloudinary, Gemini AI, Tailwind | [View Project](https://aqua-delight.vercel.app) |
+## Tech Stack
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,js,nodejs,express,postgres,mongodb,prisma,supabase,docker,tailwind,git,github" alt="Tech Stack" />
+</p>
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Backend-Development-2563EB?style=flat-square" alt="Backend Development" />
+  <img src="https://img.shields.io/badge/REST-APIs-7C3AED?style=flat-square" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/Database-Design-059669?style=flat-square" alt="Database Design" />
+  <img src="https://img.shields.io/badge/AI-Integration-D97706?style=flat-square" alt="AI Integration" />
+</p>
 
-## Connect
+---
+
+## Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Orbit</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/FinTech-2563EB?style=flat-square" alt="FinTech" />
+        <img src="https://img.shields.io/badge/Trading-Simulation-7C3AED?style=flat-square" alt="Trading Simulation" />
+      </p>
+      <p>A real-time crypto paper trading platform featuring live market data, short selling, and server-side order execution.</p>
+      <p><strong>Key Features</strong></p>
+      <ul>
+        <li>Live market data and trading simulation</li>
+        <li>Server-side trade execution and balance management</li>
+        <li>PostgreSQL data model with Prisma ORM</li>
+      </ul>
+      <p><strong>Tech Stack</strong></p>
+      <p>React, Node.js, Express, PostgreSQL, Prisma, Supabase</p>
+      <p align="center">
+        <a href="https://orbit-ankit.vercel.app/">
+          <img src="https://img.shields.io/badge/View_Project-Visit_Site-2563EB?style=for-the-badge" alt="View Orbit Project" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Royal Mint</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Banking-059669?style=flat-square" alt="Banking" />
+        <img src="https://img.shields.io/badge/Transaction-Safety-D97706?style=flat-square" alt="Transaction Safety" />
+      </p>
+      <p>A banking application focused on financial consistency, transaction integrity, and reliable account operations.</p>
+      <p><strong>Key Features</strong></p>
+      <ul>
+        <li>Immutable ledger architecture</li>
+        <li>Idempotent APIs for duplicate request protection</li>
+        <li>Double-entry accounting for transaction consistency</li>
+      </ul>
+      <p><strong>Tech Stack</strong></p>
+      <p>React, Node.js, Express, MongoDB, Clerk, Docker</p>
+      <p align="center">
+        <a href="https://try-royal-mint.vercel.app/">
+          <img src="https://img.shields.io/badge/View_Project-Visit_Site-059669?style=for-the-badge" alt="View Royal Mint Project" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## GitHub Streak
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=AnkitShaw-100&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=BC8CFF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E"
+    alt="Ankit Shaw's GitHub Streak Stats"
+  />
+</p>
+
+---
+
+## Connect With Me
+
+<p align="left">
+  <a href="mailto:ankitshaw6933@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="42" alt="Email" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/ankitshaw100/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="42" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/AnkitShaw750">
+    <img src="https://skillicons.dev/icons?i=twitter" width="42" alt="X / Twitter" />
+  </a>
+</p>
 
 <p>
-  <a href="mailto:ankitshaw6933@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
+  <img src="https://img.shields.io/badge/Focus-Backend_Engineering-2563EB?style=flat-square" alt="Backend Engineering" />
+  <img src="https://img.shields.io/badge/Principle-Code_Quality-059669?style=flat-square" alt="Code Quality" />
+  <img src="https://img.shields.io/badge/Priority-Reliability-9333EA?style=flat-square" alt="Reliability" />
+</p>
 
-  <a href="https://x.com/AnkitShaw750" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/ankitshaw100/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
+<p align="center">
+  <sub>Building thoughtfully. Learning continuously. Shipping reliably.</sub>
 </p>
